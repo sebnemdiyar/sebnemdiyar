@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm currently working on Frontend, HTML, CSS<br>I'm currently learning JS, SCSS
-
+I am a frontend developer who is continuously improving myself in web development.
+Alongside the fundamentals of HTML, CSS, and JavaScript, I am currently working with TypeScript, React, and Next.js to build modern, performant, and user-focused web applications.
+I also focus on SCSS and UI development to create clean, scalable, and maintainable interfaces.
+I am a self-motivated learner who enjoys building real projects and constantly improving through practice.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebnemcihandiyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebnem-cihan-diyar) 
