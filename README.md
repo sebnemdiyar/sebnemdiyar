@@ -1,5 +1,12 @@
-# 💫 About Me:
-Ön uç (Frontend) alanında kendini sürekli geliştiren bir yazılımcıyım.<br><br>HTML, CSS ve JavaScript temellerinin yanı sıra TypeScript, React ve Next.js üzerinde çalışıyorum ve bu teknolojilerle modern, güçlü ve kullanıcı odaklı web uygulamaları geliştiriyorum.<br><br>SCSS ve UI geliştirme konularında da deneyim kazanarak daha temiz ve ölçeklenebilir arayüzler oluşturmayı hedefliyorum.<br><br>Öğrenmeye açık, pratik yapmayı seven ve gerçek projelerle kendini geliştirmeye odaklanan bir geliştiriciyim.
+💫 About Me
+
+I am a frontend developer who is continuously improving myself in the field of web development.
+
+Alongside the fundamentals of HTML, CSS, and JavaScript, I work with TypeScript, React, and Next.js, building modern, powerful, and user-focused web applications with these technologies.
+
+I also gain experience in SCSS and UI development, aiming to create cleaner and more scalable interfaces.
+
+I am a self-motivated learner who enjoys practicing and continuously improving through real-world projects.
 
 
 ## 🌐 Socials:
